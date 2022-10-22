@@ -6,3 +6,4 @@
 * I’m currently learning **Angular, Python, Typescript, Markdown** and **Bash**.
 * I already have knowledge in **JavaScript, HTML** and **CSS**.
 
+> To infinity and beyond!
