@@ -6,4 +6,3 @@
 * I’m currently learning **Angular, Python, Typescript, Markdown** and **Bash**.
 * I already have knowledge in **JavaScript, HTML** and **CSS**.
 
-> Ciência é o conhecimento organizado. Sabedoria é vida organizada.
