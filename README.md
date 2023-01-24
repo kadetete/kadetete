@@ -6,4 +6,3 @@
 * I’m currently learning **Angular, Python** and **Typescript**.
 * I already have knowledge in **JavaScript, HTML** and **CSS**.
 
-> To infinity and beyond!
